@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkD7Ut8dOmC/s9OgobT/QTf4nrpM5cSWczCG05MlatHKttGRRXqtXeRDXN8VNslxt0+xWDomM7SLapwpYdAVug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\netit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
