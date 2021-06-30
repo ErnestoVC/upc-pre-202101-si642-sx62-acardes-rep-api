@@ -23,7 +23,7 @@ namespace Sistema.Web.Controllers
         }
 
         //GET: api/Carteras/Listar
-        [Authorize(Roles ="Administrador, Trabajador")]
+        [Authorize(Roles ="Administrador,Trabajador")]
         [HttpGet("[action]")]
         public async Task<IEnumerable<CarteraViewModel>> Listar()
         {
@@ -36,6 +36,7 @@ namespace Sistema.Web.Controllers
 
             return cartera.Select(v => new CarteraViewModel
             {
+                idcartera = v.idcartera,
                 idcliente = v.idcliente,
                 cliente = v.personas.nombre,
                 idusuario = v.idusuario,
@@ -59,7 +60,7 @@ namespace Sistema.Web.Controllers
         }
 
         //GET: api/Carteras/ListarFultro/texto
-        [Authorize(Roles ="Administrador, Trabajador")]
+        [Authorize(Roles ="Administrador,Trabajador")]
         [HttpGet("[action]/{texto}")]
         public async Task<IEnumerable<CarteraViewModel>> ListarFiltro([FromRoute] string texto)
         {
@@ -72,6 +73,7 @@ namespace Sistema.Web.Controllers
 
             return cartera.Select(v => new CarteraViewModel
             {
+                idcartera = v.idcartera,
                 idcliente = v.idcliente,
                 cliente = v.personas.nombre,
                 idusuario = v.idusuario,
@@ -95,7 +97,7 @@ namespace Sistema.Web.Controllers
         }
 
         //GET: api/Carteras/ListarDetalles
-        [Authorize(Roles = "Administrador, Trabajador")]
+        [Authorize(Roles = "Administrador,Trabajador")]
         [HttpGet("[action]/{idcartera}")]
         public async Task<IEnumerable<DetalleViewModel>> ListarDetalle([FromRoute] int idcartera)
         {

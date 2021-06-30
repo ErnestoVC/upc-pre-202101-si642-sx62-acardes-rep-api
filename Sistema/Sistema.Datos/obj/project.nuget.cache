@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vtG895BWUBwGSXEG7T1lbfpp6wjNTOnjJaZnu6vCP2ZLnOv4UDH2wA37NfUc8YCu25/EmJxIMKlHpfkE2bf/ZQ==",
+  "dgSpecHash": "v0DX4mar9VF++96kmexXt1MxG7gZl98XBnZz3DoyXUYAFtD3zxVl7Cq+rhHgdIfGn2244tAArkMEDOjC3PLp7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
+  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.2\\microsoft.entityframeworkcore.2.1.2.nupkg.sha512",

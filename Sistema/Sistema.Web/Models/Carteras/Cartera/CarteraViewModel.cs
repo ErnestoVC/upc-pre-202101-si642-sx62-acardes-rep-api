@@ -9,6 +9,8 @@ namespace Sistema.Web.Models.Carteras.Cartera
     public class CarteraViewModel
     {
         [Required]
+        public int idcartera { get; set; }
+        [Required]
         public int idcliente { get; set; }
         [Required]
         public string cliente { get; set; }

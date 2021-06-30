@@ -41,6 +41,7 @@ namespace Sistema.Web.Controllers
 
         //GET: api/Gasto/Listar
         [Authorize(Roles = "Administrador,Trabajador")]
+        [HttpGet("[action]/{texto}")]
         public async Task<IEnumerable<GastoViewModel>> ListarGasto([FromRoute] string texto)
         {
             var gasto = await _context.Gastos.Where(a => a.nombre.Contains(texto))
@@ -82,16 +83,7 @@ namespace Sistema.Web.Controllers
         //GET: api/Gasto/BuscarCodigoGasto/12345678
         [Authorize(Roles = "Administrador,Trabajador")]
         [HttpGet("[action]/{codigo}")]
-        public async Task<IActionResult> watch: {
-            dialog (val) {
-            val || this.close()
-            }
-        },
-
-        created () {
-            this.listar();
-            this.select();
-        },([FromRoute] string codigo)
+        public async Task<IActionResult> BuscarCodigoGasto ([FromRoute] string codigo)
         {
             var gasto = await _context.Gastos.Where(a => a.condicion == true)
                 .SingleOrDefaultAsync(a => a.codigo == codigo);

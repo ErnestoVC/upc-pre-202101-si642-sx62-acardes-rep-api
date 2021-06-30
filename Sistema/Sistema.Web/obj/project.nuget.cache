@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bdmrMRKPa07uZxlDdrM++jXadsuvgSCrHxWfZvuGrEEuKYz4yKoHWP/h2EXNi8qviMflnCVu/5ioOt/W0IcJw==",
+  "dgSpecHash": "yNhfX4iePqtaqHMFLiptcobdI45ZW94epFvWVJMnkok734NQMX3jyTK2KKW4FTXcPk0rbZ5liaBkjl7sJXcUdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
+  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

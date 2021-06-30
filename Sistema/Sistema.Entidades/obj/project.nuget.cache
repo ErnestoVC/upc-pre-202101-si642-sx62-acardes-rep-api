@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kkD7Ut8dOmC/s9OgobT/QTf4nrpM5cSWczCG05MlatHKttGRRXqtXeRDXN8VNslxt0+xWDomM7SLapwpYdAVug==",
+  "dgSpecHash": "AeEhYBsElsicSkWnRHq7sUgP8Dx4uneWWg1jYZSY9S9qvI+6MD5mHmW1Di+AT+BKdgkJElJtStdfcguQt9wSsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+  "projectFilePath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

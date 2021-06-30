@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj": {}
+    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj": {
+    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
+        "projectUniqueName": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
         "projectName": "Sistema.Datos",
-        "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
+        "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
         "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Datos\\obj\\",
+        "outputPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-                "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj"
+              "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+                "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+    "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "projectName": "Sistema.Entidades",
-        "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Sistema\\Sistema.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\netit\\Desktop\\Ciclo 2021-01\\Finanzas\\TF\\Backend\\upc-pre-202101-si642-sx62-acardes-rep-api\\Sistema\\Sistema.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
